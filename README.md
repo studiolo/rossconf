@@ -6,9 +6,8 @@ April 25, 2015.
 
 This repository will contain issues that explain high-level goals, and
 break these down into bite-sized chunks of work. The issues here will
-link to all the necessary repositories or issues or information, so you
-shouldn't have to try to wrap your head around the entire exercism.io
-ecosystem.
+link to all the necessary repositories and issues, so you shouldn't
+have to try to wrap your head around the entire exercism.io ecosystem.
 
 ## About Exercism
 
@@ -30,3 +29,8 @@ In addition, the exercises for each language track lives in its own repository.
 The API that serves up the exercises, a.k.a. "x-api", a.k.a. the "Problems API"
 includes all of the language-specific repositories as git submodules.
 
+## Claiming Work
+
+If you choose to work on a part of an issue, please add a comment to that issue
+saying what you're going to tackle, that way we can avoid having several people
+submit pull requests for the same thing.
