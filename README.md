@@ -34,3 +34,9 @@ includes all of the language-specific repositories as git submodules.
 If you choose to work on a part of an issue, please add a comment to that issue
 saying what you're going to tackle, that way we can avoid having several people
 submit pull requests for the same thing.
+
+## TODO
+
+- high-level problems / core focus
+- roadmap
+- types of contributions (including skillsets and skill levels)
