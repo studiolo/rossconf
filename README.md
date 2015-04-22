@@ -35,6 +35,8 @@ repositories as git submodules.
 
 ### Overview of Problems
 
+#### Improve the Conversation
+
 The most important thing that we need to get right with exercism is the conversation.
 Everyone should get feedback on their code, they should get it quickly, and the feedback
 should be high quality.
@@ -44,7 +46,14 @@ one is probably that it's so hard to understand what exercism is about when you 
 site. It's confusing, it's unclear how the process works, how you can get started, and what
 to expect.
 
-Issues #1 through #6 are all about making it easier to get people started on the site.
+Issues **#1** through **#6** are all about making it easier to get people started on the site.
+
+#### Improve the Problems
+
+Another important part of exercism is the practice problems themselves. The problems themselves
+can be improved, as can the workflow around maintaining them.
+
+Issues **#7** and **#8** are about this.
 
 ## Claiming Work
 
