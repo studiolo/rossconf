@@ -46,23 +46,26 @@ one is probably that it's so hard to understand what exercism is about when you 
 site. It's confusing, it's unclear how the process works, how you can get started, and what
 to expect.
 
-Issues **#1** through **#6** are all about making it easier to get people started on the site.
-
-#### Improve the Problems
+#### Improve the Problems/Tracks
 
 Another important part of exercism is the practice problems themselves. The problems themselves
 can be improved, as can the workflow around maintaining them.
 
-Issues **#7** and **#8** are about this.
+There are several new language tracks in the works, and if your favorite language isn't on the
+list, that's an easy fix.
+
+Also, there are some suggestions with regards to making it easier to maintain languages and keep
+them in sync.
+
+#### General Fixes
+
+Check out the [bug](https://github.com/exercism/exercism.io/labels/bug) and
+[size/small](https://github.com/exercism/exercism.io/labels/size%2Fsmall)
+labels for miscellaneous issues. If there's not enough context to fix the
+problem, it would be incredibly helpful if you posted clarifying questions.
 
 ## Claiming Work
 
 If you choose to work on a part of an issue, please add a comment to that issue
 saying what you're going to tackle, that way we can avoid having several people
 submit pull requests for the same thing.
-
-## TODO
-
-- high-level problems / core focus
-- roadmap
-- types of contributions (including skillsets and skill levels)
